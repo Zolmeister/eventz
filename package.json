@@ -1,0 +1,10 @@
+{
+  "name": "eventz",
+  "version": "0.0.1",
+  "main": "eventz.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zolmeister",
+  "license": "MIT"
+}
