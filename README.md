@@ -1,7 +1,7 @@
 # Eventz
 
 ```html
-<script src='eventz'></script>
+<script src='eventz.js'></script>
 ```
 
 ```js
